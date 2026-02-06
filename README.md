@@ -1,6 +1,6 @@
 # Hey, I'm Vyan 👋
 
-18 year old self-taught full stack and mobile app developer. I work with Python, JavaScript, TypeScript, React, and React Native. Currently learning Data Science and improving my skills every day.
+18 year old self taught full stack and mobile app developer. I work with Python, JavaScript, TypeScript, React, and React Native. Currently learning Data Science and improving my skills every day.
 
 **Open to collaborating** on Python or JavaScript projects. Always interested in learning anything that pushes me forward.
 
@@ -22,8 +22,8 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vyanmadai7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vyanmadai7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vyanmadai7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=vyanmadai7&icon=0&color=0)](https://visitcount.itsvg.in)
