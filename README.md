@@ -23,9 +23,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vyanmadai7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vyanmadai7)
-
-
+![Profile views](https://komarev.com/ghpvc/?username=vyanmadai7&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/vyanmadai7?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vyanmadai7?style=social)
 
 ---
