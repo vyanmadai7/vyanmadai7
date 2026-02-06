@@ -20,9 +20,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vyanmadai7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyanmadai7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Badges
 
-![Profile views](https://komarev.com/ghpvc/?username=vyanmadai7&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/vyanmadai7?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vyanmadai7?style=social)
 
