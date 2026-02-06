@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyanmadai7&label=Profile%20views&color=0e75b6&style=flat" alt="vyanmadai7" /> </p>
-# Hey, I'm Vyan 👋
+
+## Hey, I'm Vyan 👋
 18 year old self taught full stack and mobile app developer. I work with Python, JavaScript, TypeScript, React, and React Native. Currently learning Data Science and improving my skills every day.
 
 **Open to collaborating** on Python or JavaScript projects. Always interested in learning anything that pushes me forward.
