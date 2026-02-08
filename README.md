@@ -1,6 +1,7 @@
 ## Hi, I'm Vyan 👋<br>
 
-I'm 18 and I've been coding for a while now. I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.<br>Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something clicks.<br>I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.
+I'm 18 and I've been coding for a while now.
+I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.<br>Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something clicks.<br>I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.
 
 
 ## 🌐 Socials:
