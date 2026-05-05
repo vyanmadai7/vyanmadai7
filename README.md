@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://count.getloli.com/@:vyanmadai7?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
@@ -123,9 +129,8 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
 ###
@@ -146,42 +151,22 @@
 
 ###
 
-<h2 align="center">I'm 19 and I've been coding for a while now...<br>I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.<br>Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something works.<br>I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:vyanmadai7?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<h2 align="center">I'm 19 and I've been coding for a while now...<br>I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.<br>Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something works.<br>I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.</h2>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/vyanmadai7/vyanmadai7/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpkOHpraGg2aXVwYmxiMDRsdmVtNXI5OXl4ZjRlNzZwY2ZnM2JsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+  <img height="200" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 </div>
 
 ###
