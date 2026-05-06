@@ -8,9 +8,43 @@
 
 ###
 
-<h2 align="center">I'm 19 and I've been coding for a while now...<br>I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.<br>Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something works.<br>I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.</h2>
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
-###
+## 📌 About Me
+- I'm 19 and I've been coding for a while now...
+- I don't do this for college projects or to pad a resume I genuinely like building stuff and figuring out how things work.
+- Most of what's on here came from me getting frustrated with something, deciding to fix it myself, and then spending way too long making it actually work. I'm not gonna lie and say I know everything. Half the time I'm just reading docs, asking AI, googling errors, and trying different approaches until something works.
+- I don't wait around for someone to teach me what I need. If I want to understand how something works, I just build it. That's how I learn by actually doing it, messing up, and fixing it until it makes sense. The projects here aren't perfect, but they're real and they work.
+
+
+## 🧠 My Focus Areas
+- Web/App Development
+- Machine Learning
+- Deep Learning
+- Data Structures and Algorithm
+- DevOps and infra
+- etc
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/vyanmadai7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyanmadai7&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="vyanmadai7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=vyanmadai7&theme=github_dark&hide_border=true&cache_seconds=86400" alt="vyanmadai7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=vyanmadai7&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vyan Madai's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vyanmadai7&theme=github_dark&radius=10" alt="vyanmadai7's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="apachekafka logo"  />
@@ -147,26 +181,22 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyanmadai7/vyanmadai7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vyanmadai7/vyanmadai7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vyanmadai7/vyanmadai7/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/vyanmadai7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyanmadai7&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-###
+![Top language](https://stats.pphat.top/languages?username=vyanmadai7)
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-<img src="https://raw.githubusercontent.com/vyanmadai7/vyanmadai7/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
-###
