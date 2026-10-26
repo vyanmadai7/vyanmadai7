@@ -16,6 +16,8 @@
 ## 🧠 My Focus Areas
 <h2 align="center">
   Machine Learning<br>
+  Web Development<br>
+  App Development<br>
   Deep Learning<br>
   Data Structures and Algorithm<br>
   Computer Vision <br>
